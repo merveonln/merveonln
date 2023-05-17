@@ -1,4 +1,5 @@
-# 💫 About Me:
+#                                                   Hi 👋🏻, I'm Merve Önalan
+## 💫 About Me:
 😎Bilim ve teknolojiye bağlı Junior Frond End yazılım geliştiricisiyim.<br>💻Kendimi her alanda geliştirmeye çalışıyorum.
 
 
