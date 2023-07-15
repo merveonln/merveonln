@@ -1,4 +1,4 @@
-# Hi, <img src="https://raw.githubusercontent.com/blackcater/blackcater/master/images/Hi.gif" width="50">👋🏻 I'm Merve Önalan
+# Hi, <img src="https://raw.githubusercontent.com/blackcater/blackcater/master/images/Hi.gif" width="50"> I'm Merve Önalan
 ## 💫 About Me:
 😎I am a Junior Frond End software developer, committed to science and technology.<br>💻I try to find myself in every field.
 
