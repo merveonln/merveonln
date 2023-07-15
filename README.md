@@ -2,7 +2,7 @@
 😎I am a Junior Frond End software developer, committed to science and technology.<br>💻I try to find myself in every field.
 
 
-## 🌐 Socials:
+## 🌐 You can contact me:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/MerveÖnalan#5155)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/merve-önalan)
 [![Mail Badge](https://img.shields.io/badge/email-c14438?logo=Gmail&logoColor=white&link=mailto:merveonalan2@gmail.com)](mailto:merveonalan2@gmail.com)
