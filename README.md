@@ -13,6 +13,7 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-CC2927?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=Git&logoColor=F05032)
 ![MicrosoftSQLServer](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=sql&logoColor=white)
